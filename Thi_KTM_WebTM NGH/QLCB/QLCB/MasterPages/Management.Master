@@ -1,0 +1,54 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Management.master.cs" Inherits="QuanLyCanBo.Management.Management" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+    <link href="../CSS/trangchu.css" rel="stylesheet" />
+</head>
+<body>
+
+    <form id="form1" runat="server">
+        <div>
+                    <aside class="sidebar">
+                        <nav style="width: 200px"; float: left;">
+           </nav>
+                        <section id="MainContent">
+            </section>
+                        </aside>
+                    </div>
+
+        <div class="container-1">
+    <h1 class="text-center topspace">TIN TỨC 24H</h1>
+            <h6 <span style="color:blue"</span>
+                <marquee>CHÀO MỪNG ĐẾN VỚI KÊNH TIN TỨC TỔNG HỢP TRÊN 24H QUA</marquee></h6>
+            <h3 class="text-center">TỔNG HỢP TIN TỨC QUA 24H </h3>
+            </div>
+        <ul class="danhmuc">
+  <li><a href="~/Management/trangchu.aspx" runat="server">TRANG CHỦ </a></li>
+  <li><a href="~/Management/tintuc.aspx" runat="server">TIN TỨC</a></li>
+  <li><a href="~/Management/tacgia.aspx" runat="server">TÁC GIẢ</a></li>
+  <li><a href="~/Management/chude.aspx" runat="server">CHỦ ĐỀ</a></li>
+</ul>
+            <div>
+               <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+       </div>
+        <div class="container-3">
+            
+                <asp:ContentPlaceHolder ID="cpMainContent" runat="server">
+                 <asp:ContentPlaceHolder ID="cpMainContent1" runat="server">
+                    <p>
+                        <a href="../Management/Default.aspx">Default.aspx</a></p>
+                </asp:ContentPlaceHolder>
+                    </asp:ContentPlaceHolder>
+
+        </div>
+        <footer>
+            </footer>
+    </form>
+</body>
+</html>

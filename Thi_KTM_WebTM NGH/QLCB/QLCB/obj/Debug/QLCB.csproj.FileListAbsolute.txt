@@ -1,0 +1,236 @@
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\QLCB.dll.config
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\QLCB.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\QLCB.pdb
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\csc.exe
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\csc.exe.config
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\csc.rsp
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\csi.exe
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\csi.exe.config
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\csi.rsp
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\System.Console.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\System.Net.Http.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\vbc.exe
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\vbc.rsp
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\source\repos\QLCB\QLCB\obj\Debug\QLCB.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\QLCB\QLCB\obj\Debug\QLCB.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\QLCB\QLCB\obj\Debug\QLCB.csproj.CopyComplete
+C:\Users\Administrator\source\repos\QLCB\QLCB\obj\Debug\QLCB.dll
+C:\Users\Administrator\source\repos\QLCB\QLCB\obj\Debug\QLCB.pdb
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\QLCB.dll.config
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\QLCB.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\QLCB.pdb
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\csc.exe
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\csc.exe.config
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\csc.rsp
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\csi.exe
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\csi.exe.config
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\csi.rsp
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.Managed.Core.targets
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.AppContext.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Collections.Immutable.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Console.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Globalization.Calendars.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.IO.Compression.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.IO.FileSystem.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Net.Http.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Net.Sockets.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Reflection.Metadata.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.ValueTuple.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Xml.XmlDocument.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Xml.XPath.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\vbc.exe
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\vbc.exe.config
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\vbc.rsp
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\VBCSCompiler.exe
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\VBCSCompiler.exe.config
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\obj\Debug\QLCB.csprojAssemblyReference.cache
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\obj\Debug\QLCB.csproj.CoreCompileInputs.cache
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\obj\Debug\QLCB.csproj.CopyComplete
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\obj\Debug\QLCB.dll
+D:\thiketthucmon asp.net NGH\QLCB\QLCB\obj\Debug\QLCB.pdb
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\QLCB.dll.config
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\QLCB.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\QLCB.pdb
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\obj\Debug\QLCB.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\obj\Debug\QLCB.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\obj\Debug\QLCB.csproj.CopyComplete
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\obj\Debug\QLCB.dll
+C:\Users\Admin\Downloads\thiketthucmon asp.net NGH\QLCB\QLCB\obj\Debug\QLCB.pdb
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\QLCB.dll.config
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\QLCB.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\QLCB.pdb
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\csc.exe
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\csc.exe.config
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\csc.rsp
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\csi.exe
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\csi.exe.config
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\csi.rsp
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.AppContext.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Collections.Immutable.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Console.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Globalization.Calendars.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.IO.Compression.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.IO.FileSystem.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Net.Http.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Net.Sockets.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Reflection.Metadata.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.ValueTuple.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Xml.XPath.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\vbc.exe
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\vbc.exe.config
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\vbc.rsp
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\VBCSCompiler.exe
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\roslyn\VBCSCompiler.exe.config
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\obj\Debug\QLCB.csprojAssemblyReference.cache
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\obj\Debug\QLCB.csproj.CoreCompileInputs.cache
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\obj\Debug\QLCB.csproj.CopyComplete
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\obj\Debug\QLCB.dll
+E:\ketthucmonxaydungwedsitethuongmai\THIKETTHUCMONWEBTHUONGMAI\thiketthucmon asp.net NGH\QLCB\QLCB\obj\Debug\QLCB.pdb
